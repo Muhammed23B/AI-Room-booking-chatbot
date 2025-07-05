@@ -1,7 +1,7 @@
 # AI Room Booking Chatbot
 
 ## Demo
-"C:\Users\Mohammed Bilal\Downloads\demo.gif"
+![Image](https://github.com/user-attachments/assets/5ef5341f-c848-4c71-be24-7449c0d26e86)
 
 
 
